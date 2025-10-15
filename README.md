@@ -20,3 +20,14 @@
 管理员密码：admin
 
 管理员邮箱：admin@qq.com
+
+##四、数据库连接
+操作文档：https://superset.apache.org/docs/configuration/databases
+Mysql连接：
+mysql://scott:tiger@localhost/foo
+
+PostgreSQL连接：
+postgresql://scott:tiger@localhost/mydatabase
+
+SQLite连接：
+sqlite://path/to/file.db?check_same_thread=false
