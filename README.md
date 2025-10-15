@@ -1,3 +1,10 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-3.10.11-Blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Superset-5.0.0-Blue">
+
+
+
+
+
 #Windows Superset安装教程一件整合包#
 
 ##一、安装
